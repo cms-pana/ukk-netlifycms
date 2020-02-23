@@ -1,9 +1,22 @@
 ---
-title: Welcome to my website
+title: 
+Universitetets karateklubb
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "pFF"
 feature_text: |
-  ## Hello world
+  ## Best på høyden
 ---
 
-There isn't much going on here yet, but watch this space
+
+# Lyst til å trene karate?
+
+Karate er allsidig og funksjonell trening som styrker kropp og sinn.
+
+# Chito-ryu
+
+UKK trener den tradisjonelle karatestilarten Chito-ryu. I Chito-ryu vektlegges naturlige teknikker for effektivt selvforsvar og mindre belastningsskader.
+
+# Mer info
+
+Mer info på www.facebook.com/ukk.no
+

@@ -19,12 +19,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://ukk.no'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Universitetets karateklubb'
+description: 'Heim for UKK'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "http://ukk.no/images/Crest.jpg"
 
 # Pagination
 paginate: 5
@@ -34,14 +34,14 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: Om klubben
   url: /about/
 - title: Blog
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Til toppen
   url: "#top"
 
 # Collections

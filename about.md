@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About this website
+title: Om Universitetets karateklubb
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+UKK trener den tradisjonelle karatestilarten Chito-ryu. 
+
+I Chito-ryu vektlegges naturlige teknikker for effektivt selvforsvar og mindre belastningsskader. 
