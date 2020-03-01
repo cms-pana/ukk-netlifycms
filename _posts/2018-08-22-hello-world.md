@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Hello World
+title: Chito-Ryu Karate - Tsuyoshi
 feature_image: /assets/uploads/soke-spark.jpg
 categories:
   - General
 ---
-
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
+Intervju med, Soke, hovudinstruktøren i stilarten.
+ 
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=yNU3n2sZcX8" frameborder="0" allowfullscreen></iframe>
