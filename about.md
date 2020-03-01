@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Om Universitetets karateklubb
-feature_image: ''
-feature_text: ''
 ---
 Klubben er primært for studenter og ansatte ved universitet og høyskoler i **Bergen**. 
 
