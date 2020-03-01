@@ -3,8 +3,8 @@ title: Universitetets karateklubb
 layout: page
 feature_image: "/assets/uploads/Large-zen-curved-rocks-long.jpg"
 feature_text: |
-# Universitetets karateklubb
-Best på høyden
+  ## Universitetets karateklubb
+  Best på høyden i Bergen!
 ---
 
 
