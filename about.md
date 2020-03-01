@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Om Universitetets karateklubb
+feature_text: ''
 ---
+Klubben er primært for studenter og ansatte ved universitet og høyskoler i Bergen. 
 
-UKK trener den tradisjonelle karatestilarten Chito-ryu. 
+Vi trener Chito-ryu, en tradisjonell karatestil preget av naturlige stillinger, helhetlig trening av kropp og sinn og slagkraftige teknikker for effektivt selvforsvar.
 
-I Chito-ryu vektlegges naturlige teknikker for effektivt selvforsvar og mindre belastningsskader. 
+I Chito-ryu vektlegges naturlige teknikker for effektivt selvforsvar og mindre belastningsskader.
