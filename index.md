@@ -1,7 +1,7 @@
 ---
 title: Universitetets karateklubb
 layout: page
-feature_image: "pFF"
+feature_image: "/assets/uploads/Large-zen-curved-rocks-long.jpg"
 feature_text: |
 # Universitetets karateklubb
 Best på høyden
