@@ -52,6 +52,6 @@ collections:
     title: Nyhende og artiklar
     output: true
     description: ""
-    feature_text: |
-      Nyhende og artiklar
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    #feature_text: |
+      # Nyhende og artiklar
+    #feature_image: "https://picsum.photos/2560/600?image=866"
