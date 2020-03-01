@@ -34,10 +34,12 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Heim
   url: /
+- title: Treningstider
+  url: /treningstider/
 - title: Om UKK
   url: /about/
 - title: Blog
-  url: /blog/
+  url: /blogg/
 
 # Footer nav
 navigation_footer:
