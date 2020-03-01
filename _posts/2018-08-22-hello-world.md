@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Chito-Ryu Karate - Tsuyoshi
-feature_image: /assets/uploads/soke-spark.jpg
+title: Intervju med Soke
+feature_image: ''
 categories:
   - General
 ---
