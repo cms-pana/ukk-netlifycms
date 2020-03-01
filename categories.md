@@ -1,6 +1,7 @@
 ---
-title: Categories
 layout: categories
-excerpt: "Category index"
+title: Kategorier
+excerpt: Indeks over kategorier
 aside: true
 ---
+Ulike kategorier
