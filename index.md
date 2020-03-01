@@ -1,7 +1,7 @@
 ---
 title: Lyst til å trene karate?
 layout: page
-feature_image: "/assets/uploads/Large-zen-curved-rocks-long.jpg"
+feature_image: "/assets/uploads/Large-zen-curved-rocks-long-tr.jpg"
 feature_text: |
   ## Universitetets karateklubb
   Best på høyden i Bergen!
