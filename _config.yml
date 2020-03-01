@@ -39,7 +39,7 @@ navigation_header:
 - title: Om UKK
   url: /about/
 - title: Blog
-  url: /blogg/
+  url: /blog/
 
 # Footer nav
 navigation_footer:
