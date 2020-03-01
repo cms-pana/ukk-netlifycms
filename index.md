@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Lyst til å trene karate?
-feature_image: ''
+feature_image: /assets/uploads/large-zen-curved-rocks-long-tr.jpg
 feature_text: ''
+excerpt: ''
+image: /assets/uploads/large-zen-curved-rocks-long-tr.jpg
 ---
 
 Karate er allsidig og funksjonell trening som styrker kropp og sinn.
