@@ -32,9 +32,9 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Heim
   url: /
-- title: Om klubben
+- title: Om UKK
   url: /about/
 - title: Blog
   url: /blog/
@@ -47,9 +47,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Nyhende og artiklar
     output: true
-    description: "My thoughts and ideas"
+    description: ""
     feature_text: |
-      WelcPome to my blog
+      Nyhende og artiklar
     feature_image: "https://picsum.photos/2560/600?image=866"
