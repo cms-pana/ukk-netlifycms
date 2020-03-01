@@ -7,4 +7,4 @@ categories:
 ---
 Intervju med, Soke, hovudinstruktøren i stilarten.
  
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=yNU3n2sZcX8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=yNU3n2sZcX8" frameborder="0" allowfullscreen> </iframe>
