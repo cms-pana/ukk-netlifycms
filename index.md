@@ -1,10 +1,8 @@
 ---
-title: 
-Universitetets karateklubb
+title: Universitetets karateklubb
 layout: page
 feature_image: "pFF"
-feature_text: |
-  ## Best på høyden
+feature_text: Best på høyden
 ---
 
 
@@ -18,5 +16,5 @@ UKK trener den tradisjonelle karatestilarten Chito-ryu. I Chito-ryu vektlegges n
 
 # Mer info
 
-Mer info på www.facebook.com/ukk.no
+Mer info på [www.facebook.com/ukk.no](www.facebook.com/ukk.no)
 

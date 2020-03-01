@@ -24,7 +24,7 @@ baseurl: ''
 title: 'Universitetets karateklubb'
 description: 'Heim for UKK'
 permalink: pretty
-logo: "http://ukk.no/images/Crest.jpg"
+logo: "/assets/uploads/crest-52.png"
 
 # Pagination
 paginate: 5
