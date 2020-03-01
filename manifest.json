@@ -6,7 +6,7 @@ layout: none
   "lang": "{{ site.lang | default: "nb-NO" }}",
   "name": "{{ site.title }}",
   "short_name": "UKK",
-  "theme_color": "{{ site.manifest.theme_color | default: '#24292e' }}",
+  "theme_color": "{{ site.manifest.theme_color | default: '#de3714' }}",
   "background_color": "{{ site.manifest.background_color | default: '#ffffff' }}",
   {% if site.favicons %}
     "icons": [
