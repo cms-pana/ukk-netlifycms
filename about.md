@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Om Universitetets karateklubb
+feature_image: "/assets/uploads/Large-zen-curved-rocks-long-tr.jpg"
+feature_text: |
+  ## Universitetets karateklubb
+  Best på høyden i Bergen!
 ---
 Klubben er primært for studenter og ansatte ved universitet og høyskoler i Bergen. 
 
