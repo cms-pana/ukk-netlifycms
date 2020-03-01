@@ -1,10 +1,8 @@
 ---
-title: Lyst til å trene karate?
 layout: page
-feature_image: "/assets/uploads/Large-zen-curved-rocks-long-tr.jpg"
-feature_text: |
-  ## Universitetets karateklubb
-  Best på høyden i Bergen!
+title: Lyst til å trene karate?
+feature_image: ''
+feature_text: ''
 ---
 
 Karate er allsidig og funksjonell trening som styrker kropp og sinn.
