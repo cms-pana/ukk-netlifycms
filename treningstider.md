@@ -8,11 +8,11 @@ Har du trent karate og vil begynne på ny frisk? Still opp på en av våre treni
 Vi trener i lette treningsklær og uten sko.
 
 ## Treningstider
-- **Måndag** 1700 - 1900
-- **Tysdag** 1900 - 2100
-- **Onsdag** 1730 - 1900
-- **Fredag** 1630 - 1800
-- **Laurdag** 1000 - 1200
+- Måndag 1700 - 1900
+- Tysdag 1900 - 2100
+- Onsdag 1730 - 1900
+- Fredag 1630 - 1800
+- Laurdag 1000 - 1200
 
 
 
