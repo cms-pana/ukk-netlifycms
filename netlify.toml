@@ -4,3 +4,10 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
+
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "frame-src https://www.youtube.com/"
+
