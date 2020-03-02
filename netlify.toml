@@ -9,7 +9,6 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = "frame-src https://www.youtube.com/"
     Content-Security-Policy = "frame-ancestors 'self'"
