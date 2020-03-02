@@ -3,7 +3,7 @@ layout: post
 title: Intervju med Soke
 feature_image: ''
 categories:
-  - General
+  - Video
 ---
 [Intervju med Soke](https://www.youtube.com/watch?v=yNU3n2sZcX8), hovudinstruktøren i stilarten.
  
