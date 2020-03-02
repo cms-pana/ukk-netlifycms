@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Intervju med Soke
-feature_image: ''
 categories:
   - Video
 ---
